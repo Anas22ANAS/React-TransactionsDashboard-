@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Anas22ANAS/React-TransactionsDashboard-.git/static/css/main.ce345739.css",
+    "main.js": "/Anas22ANAS/React-TransactionsDashboard-.git/static/js/main.abc2bab9.js",
+    "static/js/453.794f0f50.chunk.js": "/Anas22ANAS/React-TransactionsDashboard-.git/static/js/453.794f0f50.chunk.js",
+    "index.html": "/Anas22ANAS/React-TransactionsDashboard-.git/index.html",
+    "main.ce345739.css.map": "/Anas22ANAS/React-TransactionsDashboard-.git/static/css/main.ce345739.css.map",
+    "main.abc2bab9.js.map": "/Anas22ANAS/React-TransactionsDashboard-.git/static/js/main.abc2bab9.js.map",
+    "453.794f0f50.chunk.js.map": "/Anas22ANAS/React-TransactionsDashboard-.git/static/js/453.794f0f50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce345739.css",
+    "static/js/main.abc2bab9.js"
+  ]
+}
